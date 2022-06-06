@@ -20,6 +20,10 @@
 Данные по коммитам за сутки:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LupanovEvgeniyHTML&theme=solarized_dark)
 
+<div style="wigth:100px; height:100px; background-color: #74992e;">
+    801010
+</div>
+
 <!--
 **LupanovEvgeniyHTML/LupanovEvgeniyHTML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
