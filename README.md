@@ -4,9 +4,21 @@
 
 𝖘𝖆𝖒𝖊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LupanovEvgeniyHTML)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LupanovEvgeniyHTML)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LupanovEvgeniyHTML&show_icons=true&theme=radical)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LupanovEvgeniyHTML&show_icons=true&theme=radical)
+
+Статистика языков в коммитах:
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LupanovEvgeniyHTML&theme=solarized_dark)
+
+Статистика языков в репозиториях:
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LupanovEvgeniyHTML&theme=solarized_dark)
+
+Статистика профиля:
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LupanovEvgeniyHTML&theme=solarized_dark)
+
+Данные по коммитам за сутки:
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LupanovEvgeniyHTML&theme=solarized_dark)
 
 <!--
 **LupanovEvgeniyHTML/LupanovEvgeniyHTML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
