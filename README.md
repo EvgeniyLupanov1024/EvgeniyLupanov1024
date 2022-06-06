@@ -6,22 +6,16 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LupanovEvgeniyHTML)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LupanovEvgeniyHTML&show_icons=true&theme=radical)
+<div style="wigth:100px; height:100px; background-color: #74992e; color: red;">
+    801010 1
+</div>
 
-Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LupanovEvgeniyHTML&theme=solarized_dark)
+<div wigth="200px" height="300px">
+    801010 2
+</div>
 
-Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LupanovEvgeniyHTML&theme=solarized_dark)
-
-Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LupanovEvgeniyHTML&theme=solarized_dark)
-
-Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LupanovEvgeniyHTML&theme=solarized_dark)
-
-<div style="wigth:100px; height:100px; background-color: #74992e;">
-    801010
+<div style="max-width: 100%;">
+    801010 3
 </div>
 
 <!--
