@@ -1,1 +1,3 @@
-![Metrics](https://metrics.lecoq.io/LupanovEvgeniyHTML?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&base.indepth=false&base.hireable=false&languages.limit=6&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=true&languages.analysis.timeout=15&languages.categories=markup%2C%20programming%2C%20lines&languages.recent.categories=markup%2C%20programming%2C%20lines&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
+
+### Активность на GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LupanovEvgeniyHTML)
