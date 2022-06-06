@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+𝔰𝔞𝔪𝔢
+
+𝖘𝖆𝖒𝖊
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LupanovEvgeniyHTML)]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LupanovEvgeniyHTML&show_icons=true&theme=radical)]
 
 <!--
 **LupanovEvgeniyHTML/LupanovEvgeniyHTML** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
