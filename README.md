@@ -1,3 +1,1 @@
-
-### Активность на GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LupanovEvgeniyHTML)
+<img src="/github-metrics.svg" align="middle" alt="Metrics" width="70%">
