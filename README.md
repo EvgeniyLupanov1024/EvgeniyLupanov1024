@@ -1,1 +1,5 @@
 <img src="/github-metrics.svg" align="middle" alt="Metrics" width="70%">
+
+| [Графический 2D редактор (SFML)](https://github.com/LupanovEvgeniyHTML/Simdle2DEditor) | [3D графика на OpenGL (GLFW)](https://github.com/LupanovEvgeniyHTML/SimpleOpenGL3DGraphic) | [Рисование объёмного куба (JFrame)](https://github.com/LupanovEvgeniyHTML/SimpleRenderOnJava)
+:-------------------------:|:-------------------------:|:-------------------------:
+![best_editor_main](https://raw.githubusercontent.com/LupanovEvgeniyHTML/LupanovEvgeniyHTML/main/projects_media/Simdle2DEditor/best_editor_main.gif)  |  ![iluminat](https://raw.githubusercontent.com/LupanovEvgeniyHTML/LupanovEvgeniyHTML/main/projects_media/SimpleOpenGL3DGraphic/iluminat_1_close.gif)  |  ![cube](https://raw.githubusercontent.com/LupanovEvgeniyHTML/LupanovEvgeniyHTML/main/projects_media/SimpleRenderOnJava/one_cube.gif)
